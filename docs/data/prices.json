@@ -1,0 +1,29 @@
+{
+ "EUR/TRY": [
+  {
+   "date": "2026-10-26",
+   "value": 55.6746,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
+  }
+ ],
+ "USD/TRY": [
+  {
+   "date": "2026-10-26",
+   "value": 49.763,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
+  }
+ ],
+ "tungsten": [
+  {
+   "date": "2026-10-16",
+   "value": 2700,
+   "unit": "USD/mtu",
+   "source": "https://investornews.com/member_news/spartan-metals-expands-victorio-tungsten-molybdenum-resource-with-measured-and-indicated-grades-of-0-25-moeq-or-0-15-wo3eq",
+   "note": "Haftalık orta nokta fiyatı."
+  }
+ ]
+}
