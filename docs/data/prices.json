@@ -6,12 +6,26 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "value": 55.513,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
   {
    "date": "2026-10-26",
    "value": 49.763,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
+  },
+  {
+   "date": "2026-10-27",
+   "value": 49.787,
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
@@ -24,6 +38,15 @@
    "unit": "USD/mtu",
    "source": "https://investornews.com/member_news/spartan-metals-expands-victorio-tungsten-molybdenum-resource-with-measured-and-indicated-grades-of-0-25-moeq-or-0-15-wo3eq",
    "note": "Haftalık orta nokta fiyatı."
+  }
+ ],
+ "cobalt": [
+  {
+   "date": "2026-10-26",
+   "value": 42990,
+   "unit": "USD/ton",
+   "source": "https://www.fastmarkets.com/insights/recycled-battery-metal-markets-battle-headwinds-during-damp-lme-week",
+   "note": "19.50-22.50 USD/lb aralığının ortalaması ton birimine çevrilmiştir (1 lb = 0.000453592 ton)."
   }
  ]
 }
