@@ -13,6 +13,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-10-28",
+   "value": 55.4846,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -29,6 +36,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-10-28",
+   "value": 49.838,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -41,6 +55,13 @@
   }
  ],
  "cobalt": [
+  {
+   "date": "2026-10-23",
+   "value": 34620,
+   "unit": "USD/ton",
+   "source": "https://www.lme.com/metals/ev/lme-cobalt",
+   "note": "LME 3 aylık kapanış fiyatı."
+  },
   {
    "date": "2026-10-26",
    "value": 42990,
