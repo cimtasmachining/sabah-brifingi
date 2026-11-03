@@ -34,6 +34,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "value": 56.0442,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -71,6 +78,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-02",
+   "value": 49.968,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -83,6 +97,13 @@
   }
  ],
  "cobalt": [
+  {
+   "date": "2026-09-01",
+   "value": 42213,
+   "unit": "USD/ton",
+   "source": "https://www.indexbox.io/store/germany-cobalt-metal-feedstock-market-analysis-forecast-size-trends-and-insights",
+   "note": "IMF verilerine göre Eylül 2026 kobalt metal fiyatı (metrik ton başına)."
+  },
   {
    "date": "2026-10-23",
    "value": 34620,
