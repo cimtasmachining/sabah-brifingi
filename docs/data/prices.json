@@ -41,6 +41,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "value": 55.8921,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -85,6 +92,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-03",
+   "value": 49.997,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -94,6 +108,13 @@
    "unit": "USD/mtu",
    "source": "https://investornews.com/member_news/spartan-metals-expands-victorio-tungsten-molybdenum-resource-with-measured-and-indicated-grades-of-0-25-moeq-or-0-15-wo3eq",
    "note": "Haftalık orta nokta fiyatı."
+  },
+  {
+   "date": "2026-11-03",
+   "value": 2675,
+   "unit": "USD/mtu",
+   "source": "https://www.cairnspost.com.au/business/stockhead/alvear-moves-to-bridge-tungsten-supply-gap-with-ipo-and-argentine-mine-restart/news-story/9fc12d570eece1a20fe4deabddd12ed3",
+   "note": "Rotterdam dışı APT fiyatı"
   }
  ],
  "cobalt": [
@@ -117,6 +138,13 @@
    "unit": "USD/ton",
    "source": "https://www.fastmarkets.com/insights/recycled-battery-metal-markets-battle-headwinds-during-damp-lme-week",
    "note": "19.50-22.50 USD/lb aralığının ortalaması ton birimine çevrilmiştir (1 lb = 0.000453592 ton)."
+  },
+  {
+   "date": "2026-11-03",
+   "value": 44092,
+   "unit": "USD/ton",
+   "source": "https://www.fastmarkets.com/insights/lme-week-2026-fastmarkets-review",
+   "note": "20 USD/lb değerinin ton karşılığı (1 ton = 2204.62 lb)"
   }
  ]
 }
