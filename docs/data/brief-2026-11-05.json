@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-05",
+ "generated": "2026-11-05 15:24",
+ "items": [
+  {
+   "score": 10,
+   "category": "hammadde",
+   "title": "Tungsten Piyasasında Ayrışma: Batı Fiyatları Çin'in 3.7 Katına Çıktı",
+   "summary": "Ekim 2026 itibarıyla Rotterdam'da işlem gören APT fiyatı 278,22 $/kg seviyesine ulaşırken, Çin çıkışlı fiyat 74,43 $/kg'da kalarak 3,74 katlık bir fiyat farkı oluştu.",
+   "why": "Karbür kesici takımların ana hammaddesi olan tungsten fiyatlarındaki bu dramatik artış, doğrudan takım maliyetlerine ve zam duyurularına yansıyacaktır; stok yönetimi ve tedarikçi sözleşmeleri gözden geçirilmelidir.",
+   "url": "https://www.indexbox.io/blog/western-tungsten-prices-diverge-sharply-from-china-as-export-restrictions-split-the-market",
+   "source_title": "Western Tungsten Prices Hit 3.74x China Levels as Export Restrictions Split Market - News and Statistics - IndexBox",
+   "date": "Wed, 04 Nov 2026"
+  },
+  {
+   "score": 8,
+   "category": "talep",
+   "title": "Airbus Üretim Hızını Artırıyor: 2027-2029 Hedefleri",
+   "summary": "Airbus, A320 ailesi için aylık 75 uçaklık üretim hızına 2027 sonunda ulaşmayı, A350 için ise 2028'de aylık 12 adetlik üretime geçmeyi hedefliyor.",
+   "why": "Havacılık sektöründeki bu üretim artışı, nikel alaşımları ve paslanmaz çelik işleme için kullanılan kesici takımlara olan talebin önümüzdeki dönemde ciddi oranda artacağını göstermektedir.",
+   "url": "https://aerospaceglobalnews.com/news/airbus-results-nine-months-2026",
+   "source_title": "Airbus orders more than double as deliveries rise and profits climb",
+   "date": "Thu, 29 Oct 2026"
+  },
+  {
+   "score": 6,
+   "category": "tedarik",
+   "title": "Tungsten İhracat Kısıtlamaları Kesici Takım Tedarik Zincirini Zorluyor",
+   "summary": "Çin'in tungsten ihracatına yönelik kısıtlamaları, özellikle hassas delik delme ve PCB işleme takımlarında küresel tedarik zinciri üzerinde baskı oluşturmaya başladı.",
+   "why": "Havacılık imalatında kullanılan karbür matkap ve freze tedarikinde yaşanabilecek olası gecikmelere karşı alternatif stok planlaması yapılmalıdır.",
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+   "source_title": "China's curbs on tungsten used in drill bits squeeze AI supply chain - Nikkei Asia",
+   "date": "Thu, 05 Nov 2026"
+  }
+ ]
+}

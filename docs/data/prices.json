@@ -48,6 +48,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-04",
+   "value": 56.3598,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -99,6 +106,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-04",
+   "value": 50.022,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -115,6 +129,13 @@
    "unit": "USD/mtu",
    "source": "https://www.cairnspost.com.au/business/stockhead/alvear-moves-to-bridge-tungsten-supply-gap-with-ipo-and-argentine-mine-restart/news-story/9fc12d570eece1a20fe4deabddd12ed3",
    "note": "Rotterdam dışı APT fiyatı"
+  },
+  {
+   "date": "2026-11-04",
+   "value": 79433,
+   "unit": "USD/ton",
+   "source": "https://www.yatechmaterials.com/tungsten-price",
+   "note": "Çin APT fiyatı 530.000 CNY/ton üzerinden USD karşılığı."
   }
  ],
  "cobalt": [
