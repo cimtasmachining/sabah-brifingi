@@ -55,6 +55,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "value": 56.1729,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -113,6 +120,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-05",
+   "value": 50.047,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -128,7 +142,7 @@
    "value": 2675,
    "unit": "USD/mtu",
    "source": "https://www.cairnspost.com.au/business/stockhead/alvear-moves-to-bridge-tungsten-supply-gap-with-ipo-and-argentine-mine-restart/news-story/9fc12d570eece1a20fe4deabddd12ed3",
-   "note": "Rotterdam dışı APT fiyatı"
+   "note": "Avrupa dışı APT fiyatı"
   },
   {
    "date": "2026-11-04",
