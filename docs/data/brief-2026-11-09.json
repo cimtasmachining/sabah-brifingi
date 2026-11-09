@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-09",
+ "generated": "2026-11-09 15:55",
+ "items": [
+  {
+   "score": 10,
+   "category": "hammadde",
+   "title": "Çin'in Tungsten İhracat Kısıtlamaları ve Fiyat Artışları",
+   "summary": "Çin'in tungsten ihracat kısıtlamaları nedeniyle APT fiyatları 2025 Şubat ayından bu yana 212.750 RMB'den 530.000 RMB seviyelerine yükseldi.",
+   "why": "Karbür takımların ana hammaddesi olan tungsten fiyatlarındaki bu dramatik artış, doğrudan kesici takım maliyetlerine ve zam duyurularına yansıyacaktır; stok yönetimi ve bütçe planlaması acilen gözden geçirilmelidir.",
+   "url": "https://www.trendforce.com/news/2026/11/09/news-chinas-tungsten-export-curbs-send-ai-pcb-drill-bit-prices-soaring-nearly-80-global-output-share-highlights-supply-risks",
+   "source_title": "[News] China’s Tungsten Export Curbs Send AI PCB Drill Bit Prices Soaring; Nearly 80% Global Output Share Highlights Supply Risks",
+   "date": "Mon, 09 Nov 2026"
+  },
+  {
+   "score": 9,
+   "category": "hammadde",
+   "title": "Tungsten Fiyatlarında Küresel Ayrışma: Rotterdam vs. Çin",
+   "summary": "Rotterdam'daki APT fiyatları 2025'ten Eylül 2026'ya kadar 4,4 kat artarak 3.000 USD/mtu seviyesine ulaşırken, Çin iç piyasasında artış %15 ile sınırlı kaldı.",
+   "why": "Tedarik zincirindeki bu fiyat makası, ithal karbür takımlarda ciddi fiyat farkları ve ek tungsten ücretleri (surcharge) ile karşılaşacağınızı gösteriyor.",
+   "url": "https://xenospectrum.com/en/tungsten-pcb-drill-export-controls",
+   "source_title": "China's Tungsten Export Controls Hit AI Server Supply Chain, Sending PCB Drill Bit Prices Up Several-Fold | XenoSpectrum",
+   "date": "Mon, 09 Nov 2026"
+  },
+  {
+   "score": 9,
+   "category": "hammadde",
+   "title": "Batı ve Çin Tungsten Piyasası Arasındaki Maliyet Uçurumu",
+   "summary": "MetalMiner verilerine göre, 26 Ekim 2026 itibarıyla Rotterdam'da APT fiyatı, Çin iç piyasasının 3,74 katına çıkarak tarihi bir farka ulaştı.",
+   "why": "Tedarikçilerinizden gelen fiyat tekliflerinde 'tungsten ek ücreti' kaleminin neden bu kadar yüksek olduğunu açıklayan temel veridir; alternatif tedarik kanalları değerlendirilmelidir.",
+   "url": "https://www.businesswire.com/news/home/20261104117500/en/Western-Tungsten-Prices-Trade-at-3.74-Times-Chinas-MetalMiner-Finds",
+   "source_title": "Western Tungsten Prices Trade at 3.74 Times China's, MetalMiner Finds",
+   "date": "Thu, 05 Nov 2026"
+  },
+  {
+   "score": 7,
+   "category": "talep",
+   "title": "Airbus 2026 Teslimat Hedefleri ve Tedarik Zinciri Zorlukları",
+   "summary": "Airbus, 2026 yılı için 870 uçaklık teslimat hedefine ulaşmak adına üretim hızını artırmaya çalışıyor ancak tedarik zinciri sorunları üretimi kısıtlıyor.",
+   "why": "Havacılık üretimindeki bu hızlanma çabası, nikel alaşımları ve titanyum işleme için kullanılan yüksek performanslı takımlara olan talebin artacağını ve teslim sürelerinin uzayabileceğini işaret eder.",
+   "url": "https://travelradar.aero/airbus-ahead-of-boeing-in-2026-deliveries",
+   "source_title": "Airbus Ahead of Boeing in 2026 Deliveries - Travel Radar - Aviation News",
+   "date": "Sun, 08 Nov 2026"
+  },
+  {
+   "score": 7,
+   "category": "talep",
+   "title": "Airbus'tan Yıl Sonu İçin Agresif Üretim Hamlesi",
+   "summary": "Airbus, yıl sonu hedefini tutturmak için Kasım ve Aralık aylarında aylık ortalama 125 uçak teslimatı yapmayı planlıyor.",
+   "why": "Üretim hattındaki bu yoğunlaşma, kesici takım tüketiminin artacağı anlamına gelir; kritik takımların stok seviyeleri kontrol edilmelidir.",
+   "url": "https://www.gurufocus.com/news/9184194/airbus-eadsf-aims-for-strong-yearend-aircraft-deliveries-amid-supply-chain-challenges",
+   "source_title": "Airbus (EADSF) Aims for Strong Year-End Aircraft Deliveries Amid",
+   "date": "Sun, 08 Nov 2026"
+  }
+ ]
+}
