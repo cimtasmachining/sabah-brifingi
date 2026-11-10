@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-10",
+ "generated": "2026-11-10 15:42",
+ "items": [
+  {
+   "score": 9,
+   "category": "talep",
+   "title": "Boeing'de Üretim Yavaşlaması ve İş Gücü Kesintisi",
+   "summary": "Boeing, tedarik zinciri sorunları ve üretim hattındaki aksaklıklar nedeniyle 737 üretim hedeflerini düşürerek iş gücünde %5 oranında kesintiye gideceğini açıkladı.",
+   "why": "Havacılık sektöründeki üretim hızının düşmesi, kesici takım tüketiminin azalacağı ve tedarik zinciri baskısının süreceği anlamına gelen kritik bir talep sinyalidir.",
+   "url": "https://www.reuters.com/business/aerospace-defense/boeing-cut-5-planemaking-divisions-workforce-seattle-times-reports-2026-11-09",
+   "source_title": "Boeing to cut 5% of commercial jet workforce amid production struggles | Reuters",
+   "date": "Tue, 10 Nov 2026"
+  },
+  {
+   "score": 8,
+   "category": "teknoloji",
+   "title": "Kennametal'den Katmanlı Üretim ile Tungsten Karbür Takım Üretimi",
+   "summary": "Kennametal, KAF82 kodlu yeni tungsten karbür kalitesini duyurdu; bu teknoloji, karmaşık soğutma kanallarına sahip özel delik işleme takımlarının katmanlı üretim (AM) ile hızlı üretilmesini sağlıyor.",
+   "why": "Havacılıkta karmaşık geometrili takımların tedarik süresini kısaltabilecek ve performans artışı sağlayabilecek önemli bir teknolojik gelişmedir.",
+   "url": "https://www.additivemanufacturing.media/products/kennametal-additive-tungsten-carbide-grade-accelerates-custom-hole-finishing-tool-production",
+   "source_title": "Kennametal Additive Tungsten Carbide Grade Accelerates Custom Hole-Finishing Tool Production | Additive Manufacturing",
+   "date": "Mon, 09 Nov 2026"
+  },
+  {
+   "score": 7,
+   "category": "teknoloji",
+   "title": "Sandvik Coromant'tan Yeni Hibrit Freze Geometrisi",
+   "summary": "Sandvik Coromant, blisk ve kanat profilleme işlemleri için varil (barrel) ve küresel (ball-nose) geometrileri birleştiren CoroMill Plura serisi yeni solid karbür frezeyi piyasaya sürdü.",
+   "why": "Nikel alaşımları ve karmaşık havacılık parçalarının işlenmesinde operasyon sayısını azaltarak verimliliği doğrudan artırabilecek bir takım çözümüdür.",
+   "url": "https://ctemag.com/products/sandvik-coromant-combines-barrel-and-ball-nose-geometries-for-complex-profiling",
+   "source_title": "Sandvik Coromant combines barrel and ball-nose geometries for…",
+   "date": "Mon, 09 Nov 2026"
+  }
+ ]
+}
