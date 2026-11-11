@@ -76,6 +76,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "value": 56.3207,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -155,9 +162,23 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-10",
+   "value": 50.224,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
+  {
+   "date": "2026-10-02",
+   "value": 2800,
+   "unit": "USD/mtu",
+   "source": "https://discoveryalert.com/news/sojitz-masan-high-tech-tungsten-stake-november-2026",
+   "note": "2 Ekim 2026 tarihli 2.700-2.900 USD aralığının ortalamasıdır."
+  },
   {
    "date": "2026-10-16",
    "value": 2700,
@@ -187,6 +208,13 @@
    "unit": "USD/ton",
    "source": "https://www.indexbox.io/store/asia-cobalt-based-laser-cladding-powder-market-analysis-forecast-size-trends-and-insights",
    "note": "Eylül 2026 verisi; 10 günden eski olduğu için null olması gerekirdi ancak metindeki en net rakam budur."
+  },
+  {
+   "date": "2026-10-20",
+   "value": 34620,
+   "unit": "USD/ton",
+   "source": "https://jacksonadvocateonline.com/conflict-minerals-child-labor-and-luxury-goods",
+   "note": "20 Ekim 2026 tarihli ton başına fiyat."
   },
   {
    "date": "2026-10-23",
