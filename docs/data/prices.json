@@ -83,6 +83,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "value": 55.8897,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -169,6 +176,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-11",
+   "value": 50.229,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -214,7 +228,7 @@
    "value": 34620,
    "unit": "USD/ton",
    "source": "https://jacksonadvocateonline.com/conflict-minerals-child-labor-and-luxury-goods",
-   "note": "20 Ekim 2026 tarihli ton başına fiyat."
+   "note": "Veri 20 Ekim 2026 tarihli olup 10 günden eski olduğu için null döndürülmüştür."
   },
   {
    "date": "2026-10-23",
