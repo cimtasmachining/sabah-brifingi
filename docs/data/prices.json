@@ -90,6 +90,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-12",
+   "value": 55.6906,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -183,6 +190,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-12",
+   "value": 50.258,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -213,6 +227,13 @@
    "unit": "USD/ton",
    "source": "https://www.yatechmaterials.com/tungsten-price",
    "note": "Çin APT fiyatı 530.000 CNY/ton üzerinden USD karşılığı."
+  },
+  {
+   "date": "2026-11-12",
+   "value": 2800,
+   "unit": "USD/mtu",
+   "source": "https://quantisnow.com/insight/almonty-industries-reports-third-quarter-2026-financial-results-6788334",
+   "note": "Avrupa APT fiyatı, 2026 3. çeyrek ortalaması."
   }
  ],
  "cobalt": [
