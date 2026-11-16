@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-16",
+ "generated": "2026-11-16 15:48",
+ "items": [
+  {
+   "score": 9,
+   "category": "hammadde",
+   "title": "Tungsten Fiyatlarında Artış ve Tedarik Kısıtları",
+   "summary": "Almonty Industries, tungsten fiyatlarındaki artışla gelirini %382 artırdı; APT fiyatı 6 Kasım itibarıyla ton başına 2.650 USD seviyesinde seyrediyor.",
+   "why": "Tungsten bazlı kesici takımlarda maliyet artışları ve tedarik zinciri riskleri doğrudan satın alma bütçenizi etkileyecektir, stok yönetiminizi gözden geçirmelisiniz.",
+   "url": "https://mlq.ai/news/almontys-third-quarter-revenue-jumps-382-on-tungsten-prices-as-its-korean-mine-produces-its-first-concentrate",
+   "source_title": "Almonty's third-quarter revenue jumps 382% on tungsten prices as its Korean mine produces its first concentrate | MLQ.ai",
+   "date": "Fri, 13 Nov 2026"
+  },
+  {
+   "score": 8,
+   "category": "hammadde",
+   "title": "Tungsten Piyasasında Arz Kısıtları ve Fiyat Tahminleri",
+   "summary": "Çin'in ihracat kısıtlamaları nedeniyle APT fiyatları son 12 ayda %313 artış gösterdi; 2027'ye doğru savunma sanayii talebiyle arz sıkıntısı bekleniyor.",
+   "why": "Hammadde kaynaklı fiyat dalgalanmaları devam edeceği için uzun vadeli tedarik sözleşmelerinizi ve alternatif kaynak arayışlarınızı hızlandırmalısınız.",
+   "url": "https://www.theaustralian.com.au/business/stockhead/content/tungsten-minings-watershed-dfs-points-to-strong-returns-and-targeted-first-production-by-mid2027/news-story/cce2080c77003b62a1fb1e80b6b61748",
+   "source_title": "TGN eyes strong returns from Watershed DFS | The Australian",
+   "date": "Mon, 16 Nov 2026"
+  },
+  {
+   "score": 8,
+   "category": "tedarik",
+   "title": "Tungsten İşleme Kapasitesinde Küresel Darboğaz",
+   "summary": "Çin dışındaki tungsten işleme (smelting) altyapısının yetersizliği, Çin ve Batı pazarları arasında ton başına 1.500 USD'lik bir fiyat farkı yarattı.",
+   "why": "İşleme kapasitesindeki bu kısıt, karbür takım üreticilerinin maliyetlerini doğrudan etkileyeceğinden, tedarikçilerinizden gelecek zam duyurularına hazırlıklı olun.",
+   "url": "https://www.streetwisereports.com/article/2026/11/09/chinas-antimony-deadline-is-weeks-away-as-us-army-commits-millions.html",
+   "source_title": "China's Antimony Deadline Is Weeks Away as US Army Commits Millions",
+   "date": "Mon, 09 Nov 2026"
+  },
+  {
+   "score": 7,
+   "category": "zam",
+   "title": "Tungsten Tozu ve Karbür Fiyatlarında Yükseliş",
+   "summary": "Çin'deki büyük üreticilerin fiyat artışları sonrası tungsten karbür tozu fiyatları 790-820 RMB/kg seviyesine ulaştı.",
+   "why": "Karbür uç ve freze üretim maliyetlerindeki bu artış, kısa vadede Türkiye'deki distribütör fiyatlarına yansıyacaktır.",
+   "url": "https://www.ctia.com.cn/en/news/53978.html",
+   "source_title": "Tungsten Powder Price Rises - November 11, 2026China Tungsten Industry News Center",
+   "date": "Wed, 11 Nov 2026"
+  },
+  {
+   "score": 7,
+   "category": "teknoloji",
+   "title": "Sandvik Coromant'tan Yeni Derin Delik Delme Serisi",
+   "summary": "Sandvik Coromant, 12xD ile 30xD arası derinlikler için X2BM kalitesinde ve Zertivo 2.0 kaplamalı CoroDrill Dura 462 serisini piyasaya sürdü.",
+   "why": "Havacılık parçalarındaki derin delik işleme operasyonlarınızda verimliliği artırmak için bu yeni geometri ve kaplama teknolojisini test edebilirsiniz.",
+   "url": "https://ctemag.com/products/sandvik-coromant-extends-corodrill-dura-462-range-to-deep-hole-drilling",
+   "source_title": "Sandvik Coromant extends CoroDrill Dura 462 range to deep-hole…",
+   "date": "Sun, 15 Nov 2026"
+  },
+  {
+   "score": 6,
+   "category": "talep",
+   "title": "Havacılık Sektöründe Üretim Kapasitesi ve Tedarik Zinciri",
+   "summary": "Airbus ve Boeing, üretim kapasitelerini artırmaya çalışsa da tedarik zincirindeki darboğazlar devam ediyor.",
+   "why": "Havacılık üretim hızındaki bu değişimler, kesici takım tüketim miktarınızı ve acil ihtiyaçlarınızı doğrudan etkileyecektir.",
+   "url": "https://aerospaceglobalnews.com/news/commercial-aircraft-shortage-explained",
+   "source_title": "The current global commercial aircraft shortage explained",
+   "date": "Sat, 14 Nov 2026"
+  },
+  {
+   "score": 6,
+   "category": "sektor",
+   "title": "Havacılık Tedarik Zincirinde Coğrafi Kayma",
+   "summary": "Airbus ve Boeing'in tedarik zinciri stratejilerini Hindistan gibi bölgelere kaydırması, küresel havacılık üretim ağında yapısal değişikliklere yol açıyor.",
+   "why": "Tedarikçi ağınızdaki olası değişimleri ve havacılık üretimindeki bölgesel hareketliliği takip ederek lojistik planlamanızı güncel tutmalısınız.",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-16/airbus-boeing-supply-chain-shift-boosts-india-aerospace-stocks",
+   "source_title": "Airbus, Boeing Supply-Chain Shift Boosts India Aerospace Stocks - Bloomberg",
+   "date": "Mon, 16 Nov 2026"
+  }
+ ]
+}
