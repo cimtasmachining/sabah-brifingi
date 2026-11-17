@@ -104,6 +104,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "value": 55.502,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -211,6 +218,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-16",
+   "value": 50.392,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -285,6 +299,13 @@
    "unit": "USD/ton",
    "source": "https://www.fastmarkets.com/insights/lme-week-2026-fastmarkets-review",
    "note": "20 USD/lb değerinin ton karşılığı (1 ton = 2204.62 lb)"
+  },
+  {
+   "date": "2026-11-17",
+   "value": 45386.47,
+   "unit": "USD/ton",
+   "source": "https://goldinvest.de/en/commodity-prices",
+   "note": "17 Kasım 2026 tarihli güncel piyasa verisi."
   }
  ]
 }
