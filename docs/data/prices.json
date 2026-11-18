@@ -111,6 +111,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "value": 55.3987,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -225,6 +232,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-17",
+   "value": 50.413,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -262,6 +276,13 @@
    "unit": "USD/mtu",
    "source": "https://quantisnow.com/insight/almonty-industries-reports-third-quarter-2026-financial-results-6788334",
    "note": "Avrupa APT fiyatı, 2026 3. çeyrek ortalaması."
+  },
+  {
+   "date": "2026-11-17",
+   "value": 2800,
+   "unit": "USD/mtu",
+   "source": "https://www.globenewswire.com/news-release/2026/11/17/3404524/0/en/diamond-equity-research-releases-update-note-on-almonty-industries-inc-nasdaq-alm-frankfurt-ali1.html",
+   "note": "Avrupa APT fiyatı"
   }
  ],
  "cobalt": [
@@ -292,6 +313,13 @@
    "unit": "USD/ton",
    "source": "https://www.fastmarkets.com/insights/recycled-battery-metal-markets-battle-headwinds-during-damp-lme-week",
    "note": "19.50-22.50 USD/lb aralığının ortalaması ton birimine çevrilmiştir (1 lb = 0.000453592 ton)."
+  },
+  {
+   "date": "2026-11-02",
+   "value": 56810,
+   "unit": "USD/ton",
+   "source": "https://www.stockatomics.com/commodities/cobalt-price-us",
+   "note": "Stockatomics verisi (kg başına 56.81 USD'den ton birimine çevrilmiştir)"
   },
   {
    "date": "2026-11-03",
