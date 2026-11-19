@@ -118,6 +118,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "value": 55.3197,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -239,6 +246,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-18",
+   "value": 50.438,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -276,6 +290,13 @@
    "unit": "USD/mtu",
    "source": "https://quantisnow.com/insight/almonty-industries-reports-third-quarter-2026-financial-results-6788334",
    "note": "Avrupa APT fiyatı, 2026 3. çeyrek ortalaması."
+  },
+  {
+   "date": "2026-11-16",
+   "value": 2700,
+   "unit": "USD/mtu",
+   "source": "https://stockhead.com.au/resources/tungsten-mining-shaping-as-military-metal-producer-canaccord",
+   "note": "Rotterdam APT spot fiyatı"
   },
   {
    "date": "2026-11-17",
@@ -319,7 +340,7 @@
    "value": 56810,
    "unit": "USD/ton",
    "source": "https://www.stockatomics.com/commodities/cobalt-price-us",
-   "note": "Stockatomics verisi (kg başına 56.81 USD'den ton birimine çevrilmiştir)"
+   "note": "Kg fiyatı 1000 ile çarpılarak tona çevrilmiştir"
   },
   {
    "date": "2026-11-03",
