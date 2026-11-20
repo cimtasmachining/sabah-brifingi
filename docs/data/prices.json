@@ -125,6 +125,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "value": 55.4737,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -253,6 +260,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-19",
+   "value": 50.468,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -304,6 +318,13 @@
    "unit": "USD/mtu",
    "source": "https://www.globenewswire.com/news-release/2026/11/17/3404524/0/en/diamond-equity-research-releases-update-note-on-almonty-industries-inc-nasdaq-alm-frankfurt-ali1.html",
    "note": "Avrupa APT fiyatı"
+  },
+  {
+   "date": "2026-11-19",
+   "value": 2400,
+   "unit": "USD/mtu",
+   "source": "https://resourcesrisingstars.com.au/no-woolly-thinking-for-mammoth-as-it-makes-big-play-for-pilbara-tungsten",
+   "note": "Canaccord Genuity tarafından belirtilen güncel spot fiyat."
   }
  ],
  "cobalt": [
