@@ -132,6 +132,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "value": 55.5788,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -267,6 +274,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-20",
+   "value": 50.572,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -316,8 +330,8 @@
    "date": "2026-11-17",
    "value": 2800,
    "unit": "USD/mtu",
-   "source": "https://www.globenewswire.com/news-release/2026/11/17/3404524/0/en/diamond-equity-research-releases-update-note-on-almonty-industries-inc-nasdaq-alm-frankfurt-ali1.html",
-   "note": "Avrupa APT fiyatı"
+   "source": "https://finance.yahoo.com/markets/stocks/articles/diamond-equity-research-releases-note-130000449.html",
+   "note": "Avrupa APT ortalama fiyatı"
   },
   {
    "date": "2026-11-19",
@@ -376,6 +390,13 @@
    "unit": "USD/ton",
    "source": "https://goldinvest.de/en/commodity-prices",
    "note": "17 Kasım 2026 tarihli güncel piyasa verisi."
+  },
+  {
+   "date": "2026-11-20",
+   "value": 33525,
+   "unit": "USD/ton",
+   "source": "https://www.facebook.com/znbctoday/posts/copper-prices-fall-nearly-eight-percentby-ellen-hambuba-copper-prices-declined-b/1504910071740953",
+   "note": "LME kobalt fiyatı"
   }
  ]
 }
