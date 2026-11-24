@@ -139,6 +139,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "value": 55.3405,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -281,6 +288,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-23",
+   "value": 50.59,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -297,6 +311,13 @@
    "unit": "USD/mtu",
    "source": "https://investornews.com/member_news/spartan-metals-expands-victorio-tungsten-molybdenum-resource-with-measured-and-indicated-grades-of-0-25-moeq-or-0-15-wo3eq",
    "note": "Haftalık orta nokta fiyatı."
+  },
+  {
+   "date": "2026-11-01",
+   "value": 2650,
+   "unit": "USD/mtu",
+   "source": "https://stockhouse.com/opinion/contributors/2026/11/17/treasures-from-depths-slump-stock-market-lynas-almonty-and-cameco-tempt-with-low",
+   "note": "Kasım ayı başında Avrupa APT fiyatı."
   },
   {
    "date": "2026-11-03",
@@ -396,7 +417,7 @@
    "value": 33525,
    "unit": "USD/ton",
    "source": "https://www.facebook.com/znbctoday/posts/copper-prices-fall-nearly-eight-percentby-ellen-hambuba-copper-prices-declined-b/1504910071740953",
-   "note": "LME kobalt fiyatı"
+   "note": "20 Kasım itibarıyla kobalt metal fiyatı."
   }
  ]
 }
