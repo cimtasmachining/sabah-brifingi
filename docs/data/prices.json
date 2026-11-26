@@ -153,6 +153,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-25",
+   "value": 55.4163,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -306,6 +313,13 @@
   {
    "date": "2026-11-24",
    "value": 50.628,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
+  },
+  {
+   "date": "2026-11-25",
+   "value": 50.678,
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
