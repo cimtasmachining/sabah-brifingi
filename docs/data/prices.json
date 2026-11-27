@@ -160,6 +160,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-26",
+   "value": 55.6177,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "USD/TRY": [
@@ -323,6 +330,13 @@
    "unit": "TRY",
    "source": "https://www.frankfurter.app",
    "note": ""
+  },
+  {
+   "date": "2026-11-26",
+   "value": 50.677,
+   "unit": "TRY",
+   "source": "https://www.frankfurter.app",
+   "note": ""
   }
  ],
  "tungsten": [
@@ -388,6 +402,13 @@
    "unit": "USD/mtu",
    "source": "https://resourcesrisingstars.com.au/no-woolly-thinking-for-mammoth-as-it-makes-big-play-for-pilbara-tungsten",
    "note": "Canaccord Genuity tarafından belirtilen güncel spot fiyat."
+  },
+  {
+   "date": "2026-11-27",
+   "value": 968.5,
+   "unit": "USD/mtu",
+   "source": "https://www.facebook.com/DiscoveryAlert/posts/western-tungsten-buyers-now-pay-far-more-than-chinese-buyers-and-the-gap-is-wide/1150418124190108",
+   "note": "Avrupa APT fiyat aralığının (950-987) ortalaması alınmıştır."
   }
  ],
  "cobalt": [
@@ -446,6 +467,13 @@
    "unit": "USD/ton",
    "source": "https://www.facebook.com/znbctoday/posts/copper-prices-fall-nearly-eight-percentby-ellen-hambuba-copper-prices-declined-b/1504910071740953",
    "note": "20 Kasım itibarıyla kobalt metal fiyatı."
+  },
+  {
+   "date": "2026-11-27",
+   "value": 44300,
+   "unit": "USD/ton",
+   "source": "https://www.ecofinagency.com/news-industry/2711-61228-cobalt-prices-jump-32-in-a-week-ahead-of-indefinite-drc-export-ban",
+   "note": "27 Kasım 2026 tarihli 3 aylık vadeli işlem fiyatı."
   }
  ]
 }
